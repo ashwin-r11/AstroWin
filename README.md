@@ -24,6 +24,7 @@ Architecturally, AstroWin is envisioned as a Domain-Specific Language (DSL) that
 
 AstroWin is, at present, a vision. It is an ambitious project that requires significant research, design, and engineering to bring to fruition. The immediate focus is on refining the theoretical foundations, debating the core architectural decisions, and building a community of interested individuals who believe in the potential of this new programming paradigm.
 
+#### check out my initial report here : [AstroWin_Report_v.0.0.1](Docs/Astrowin_report_0.0.1.pdf)
 ## We Need Your Help!
 
 This is where you come in. We are actively seeking collaborators who are excited by the prospect of building the future of programming. Whether you are a programming language theorist, a compiler engineer, an AI researcher, or simply a developer with a passion for new ideas, your contribution is welcome.
