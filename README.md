@@ -1,6 +1,9 @@
 # AstroWin: A Cosmologically-Inspired, AI-Augmented Programming Language
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000710/GSFC_20171208_Archive_e000710~small.jpg" alt="Lonely Galaxy Lost in Space" style="width:100%; height:auto;"> [about the image.](https://images.nasa.gov/details/GSFC_20171208_Archive_e000710)
 
-**(UNDER EARLY STAGE OF DEVELOPMENT)**
+<h2><p align="center">
+(UNDER EARLY STAGE OF DEVELOPMENT)
+</p></h2>
 
 ## Vision
 
